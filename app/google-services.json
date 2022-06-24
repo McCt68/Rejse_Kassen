@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601800009075",
+    "project_id": "rejse-kassen",
+    "storage_bucket": "rejse-kassen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601800009075:android:12b04b19f3764643311106",
+        "android_client_info": {
+          "package_name": "eu.example.rejsekassen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601800009075-ullmr6dm2j2u12qdpacam29095chgh1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItiJ9wAB61s3iUcDZV7ovqwyYLTI7nHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601800009075-ullmr6dm2j2u12qdpacam29095chgh1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
